@@ -27,4 +27,4 @@ The matrix aims to be a dynamic documentation of support information about imple
 
 
 ### Contributing ###
-Contributions are always welcome. Please read the [Contribution Guide](https://github.com/MoritzKa/Lightning-Implementation-Features/blob/main/CONTRIBUTING.md).
+Contributions are always welcome. Please read the [Contribution Guide](https://github.com/FulgurVentures/Lightning-Implementation-Features/blob/main/CONTRIBUTING).
