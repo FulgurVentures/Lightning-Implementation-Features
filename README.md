@@ -2,7 +2,7 @@
 The Lightning Implementation Feature Matrix lists support information for features of various Lightning Network implementations. It supports developers, startup founders, product managers and Lightning enthusiasts in gathering information for technical evaluations. 
 
 ## Status ##
-The matrix aims to be a dynamic documentation of support information about implementation specific features. Contributions are highly appreciated. Read the contribution guide to learn how and where to contribute. Please use the [full screen view](https://github.com/MoritzKa/Lightning-Implementation-Features/blob/main/README.md) to avoid a scrollbar. 
+The matrix aims to be a dynamic documentation of support information about implementation specific features. Contributions are highly appreciated. Read the contribution guide to learn how and where to contribute. Please use the [full screen view](https://github.com/FulgurVentures/Lightning-Implementation-Features/blob/main/README.md) to avoid a scrollbar. 
 
 ## :zap: Feature Matrix :zap: ##
 
@@ -27,4 +27,4 @@ The matrix aims to be a dynamic documentation of support information about imple
 
 
 ### Contributing ###
-Contributions are always welcome. Please read the [Contribution Guide](https://github.com/FulgurVentures/Lightning-Implementation-Features/blob/main/CONTRIBUTING).
+Contributions are always welcome. Please read the [Contribution Guide](https://github.com/FulgurVentures/Lightning-Implementation-Features/blob/main/CONTRIBUTING.md).
